@@ -1,0 +1,41 @@
+/* Write your CSS here */
+.bg-container {
+  background-color: #ffffff;
+  padding: 40px;
+}
+.container {
+  background-color: #ffd569;
+  margin-top: 60px;
+  margin: 30px;
+}
+.heading {
+  color: #000000;
+  font-size: 40px;
+  font-family: 'Roboto';
+}
+.count {
+  color: #ffd569;
+}
+.cards-container {
+  display: flex;
+  justify-content: space-between;
+}
+.card {
+  text-align: center;
+  width: 300px;
+}
+.image {
+  height: 400px;
+  width: 200px;
+  text-align: center;
+}
+.button {
+  color: #ffffff;
+  background-color: #007bff;
+  height: 40px;
+  width: 120px;
+  padding: 5px;
+  border-radius: 4px;
+  border-width: 0px;
+  text-align: center;
+}
